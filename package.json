@@ -1,0 +1,16 @@
+{
+  "name": "fis-mod-commonjs",
+  "version": "1.0.0",
+  "description": "fis3+modjs测试用commonjs方式进行开发",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fis3-hook-commonjs": "^0.1.26",
+    "fis3-postpackager-loader": "^2.1.10",
+    "fis3-smarty": "^1.1.16"
+  }
+}
