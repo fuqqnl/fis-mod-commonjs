@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <title>fis3+modjs</title>
-    <script type="text/javascript" src="static/vendor/mod.js"></script>
+    <!-- <script type="text/javascript" src="static/vendor/mod.js"></script> -->
 </head>
 <body>
 <h2>fis3+modjs构建commonjs代码</h2>
